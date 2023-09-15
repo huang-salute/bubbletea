@@ -9,7 +9,7 @@ issues:
     - EXC0012
     - EXC0013
 
-  max-issues-per-linter: 0
+  max-issues-per-linter: 10
   max-same-issues: 0
 
 linters:
